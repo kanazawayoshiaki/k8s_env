@@ -1,1 +1,1 @@
-kubeadm join 172.16.20.11:6443 --token tynxr8.q4u4lbhot0i9m6nd     --discovery-token-ca-cert-hash sha256:107027c650fe7dd0cf88953a5b23079ea0b393508982dca6b21943527fc70977 
+
